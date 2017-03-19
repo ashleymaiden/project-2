@@ -1,0 +1,38 @@
+.green {height: 200px;
+	    width:48%;
+	    background-color: green;
+	    margin:auto;
+	    float:left;
+	    border: 1px solid black;
+	    text-align:center;
+	   
+
+}
+.blue {height: 200px;
+	    width:48.2%;
+	    background-color: blue;
+	    margin:auto;
+	    float:left;
+	    border: 1px solid black;
+	}
+.grey {height:300px;
+	   width:32%;
+	   background-color:grey;
+	   margin:auto;
+	   float:left;
+	   border:1px solid black;
+}
+.black {height:300px;
+	   width:32%;
+	   background-color:black;
+	   margin:auto;
+	   float:left;
+	   border:1px solid black;
+}
+.orange {height:300px;
+	   width:32%;
+	   background-color:orange;
+	   margin:auto;
+	   float:left;
+	   border:1px solid black;
+}
